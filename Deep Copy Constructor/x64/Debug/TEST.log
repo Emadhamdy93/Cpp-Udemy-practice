@@ -1,0 +1,5 @@
+﻿  Shallow.cpp
+  TEST.cpp
+D:\courses\route\TEST\TEST.cpp(21,34): warning C4114: same type qualifier used more than once
+  Generating Code...
+  TEST.vcxproj -> D:\courses\route\TEST\x64\Debug\TEST.exe
